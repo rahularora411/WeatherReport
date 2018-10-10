@@ -1,6 +1,6 @@
-# WeatherAppDemoMaster
-This project is related to showing next 5 days weather report using Open Weather API(http://openweathermap.org/forecast5).
-
+# WeatherReport
+Introduction
+This simple Android app uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
 ## Prerequisites
 
 1. Install Android Studio in your pc or mac.
