@@ -26,7 +26,7 @@ This simple Android app uses the OpenWeatherMap 5 day weather forecast API to re
 
 ## Authors
 
-* **Mohit Arora** - *Initial work*
+* **Rahul** - *Initial work*
 
 ## License
 
