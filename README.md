@@ -1,5 +1,4 @@
 # WeatherReport
-Introduction
 This simple Android app uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
 ## Prerequisites
 
