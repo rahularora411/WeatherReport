@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">eeeab614996e414ba1a62c46300bfc65</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
